@@ -1,4 +1,36 @@
-# 🚀 Cursor Free Trial Reset Tool
+# go-cursor-help
+
+> Troubleshooting and automation utilities for diagnosing Cursor trial and account-limit errors; review local policy and security implications before use.
+
+## At a glance
+
+| Need | Start here |
+|---|---|
+| Understand the project | This overview and the existing project documentation below. |
+| Install or run it | Follow the first **Getting started**, **Installation**, **Quick Start**, or **Setup** section below. |
+| Find the implementation | Start with the repository root and the file map below; inspect the primary app, package, workflow, or source directory before changing code. |
+| Configure it | Search the documentation below for `.env`, environment variables, secrets, Docker, or configuration files. Never commit credentials. |
+| Report a problem | [Open an issue](https://github.com/gaurav-chakraborty/go-cursor-help/issues). Include reproduction steps, logs, versions, and expected versus actual behavior. |
+
+## Repository map
+
+Inspect the repository root for the primary source, workflow, configuration, and deployment files.
+
+## Links
+
+| Resource | Link |
+|---|---|
+| Source repository | [GitHub](https://github.com/gaurav-chakraborty/go-cursor-help) |
+| Issues and discussions | [Issues](https://github.com/gaurav-chakraborty/go-cursor-help/issues) |
+| Change history | [Commits](https://github.com/gaurav-chakraborty/go-cursor-help/commits/master) |
+| Automation | [Actions](https://github.com/gaurav-chakraborty/go-cursor-help/actions) |
+
+## Documentation
+
+The original project documentation is preserved below. Use the navigation above to locate setup, usage, configuration, architecture, contribution, and status details.
+
+---
+
 
 <div align="center">
 
